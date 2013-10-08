@@ -1,0 +1,68 @@
+JUnit version 4.8.2
+.
+Horizontal Bingos
+-----
+0: should find a row 1 bingo : Passed
+1: should find a row 2 bingo : Passed
+2: should find a row 3 bingo : Passed
+3: should fail to find a bingo that does not exist : Passed
+4: should fail to find another bingo that does not exist : Passed
+5: should fail to find a third bingo that does not exist : Passed
+6: the order of drawn numbers should not matter : Passed
+7: should find a middle row bingo including the free space : Passed
+8: should find a bingo with extra drawn numbers : Passed
+.
+Vertical Bingos
+-----
+9: should find a column 1 bingo : Passed
+10: should find a column 2 bingo : Passed
+11: should find a column 3 bingo : Passed
+12: should fail to find a bingo that does not exist : Passed
+13: should fail to find another bingo that does not exist : Passed
+14: should fail to find a third bingo that does not exist : Passed
+15: the order of drawn numbers should not matter : Passed
+16: should find a middle column bingo including the free space : Passed
+.
+Four Corner Bingos - 1 Extra Credit Pt If Tests All Pass
+-----
+0: should find a four corner bingo : Passed
+1: should fail to find a bingo that does not exist : Passed
+2: the order of drawn numbers should not matter : Passed
+.
+Diagonal Bingos - 2 Extra Credit Pts If Tests All Pass
+-----
+0: should find a backslash bingo : Passed
+1: should find a frontslash bingo : Passed
+2: should fail to find a bingo that does not exist : Passed
+3: the order of drawn numbers should not matter : Passed
+4: should ignore the free space : Passed
+.
+Diamond Bingos - 3 Extra Credit Pts If Tests All Pass
+-----
+0: should find a diamond bingo on a 5x5 board : Failed
+1: should fail to find a bingo that does not exist on a 5x5 board : Passed
+2: should find a diamond bingo on a 7x7 board : Failed
+3: should fail to find a bingo that does not exist on a 7x7 board : Passed
+
+
+Results
+-------
+Passes: 17
+Failures: 0
+Tests: 17
+
+
+Score - Out of 25
+----------------- 
+25
+
+Extra Credit: 2
+
+Final Score
+----------- 
+25
+
+Time: 0.059
+
+OK (5 tests)
+
