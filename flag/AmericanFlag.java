@@ -4,7 +4,6 @@
  * A AmericanFlag object sets up and draws a American flag on the GUI through the 
  * specified height and width. It extends the JPanel in order to draw 2D Shapes
  * on the GUI
- *@author Arpit Khatri
  */
 
 // Import all the needed libraries to build the flag
