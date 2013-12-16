@@ -1,0 +1,7 @@
+Run javacc all the src .java programms
+
+then run: 
+
+java  MainClass
+
+
